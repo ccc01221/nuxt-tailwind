@@ -9,7 +9,7 @@ Selecting the text will show a popup with "pencil" icon, after clicking on icon 
 ```
 
 ## Screenshot
-![Screenshot](static/screen.png "Test App")
+![Screenshot](static/screen.PNG "Test App")
 
 ## Build Setup
 
